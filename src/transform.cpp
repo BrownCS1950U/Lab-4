@@ -1,4 +1,5 @@
-#include "Transform.h"
+#include "transform.h"
+#define GLM_ENABLE_EXPERIMENTAL
 #include <glm/gtx/transform.hpp> // (Optional) additional glm functionality if needed
 
 namespace gl {
